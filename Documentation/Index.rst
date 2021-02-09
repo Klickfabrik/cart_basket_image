@@ -1,36 +1,40 @@
-.. ==================================================
-.. FOR YOUR INFORMATION
-.. --------------------------------------------------
-.. -*- coding: utf-8 -*- with BOM.
-
 .. include:: Includes.txt
 .. include:: Images.txt
 
+.. _start:
 
+========================
 Cart - Basket Image
-=======================
+========================
 
-:Author: |author|
-:Rendered: |today|
-:Extension Key: cart_basket_image
-:Language: en
-:Keywords: cart, cart_products, image, basket
+:Version:
+      |release|
 
-Copyright 2021, |author|
+:Language:
+      en
 
-This document is published under the Open Content License
-available from http://www.opencontent.org/opl.shtml
-The content of this document is related to TYPO3
-\- a GNU/GPL CMS/Framework available from www.typo3.org
+:Keywords:
+       cart, cart_products, image, basket
+
+:Copyright:
+      2021
+
+:Authors:
+      TYPO3 community (see :ref:`credits`)
+
+:License:
+      Open Publication License available from `www.opencontent.org/openpub/
+      <http://www.opencontent.org/openpub/>`_
 
 
-What does it do?
-----------------
+
+
+**What does it do?**
+
 Allow to display an image into the basket
 
 
-Screenshots
------------
+**Screenshots**
 
 - Display the image like this
 
